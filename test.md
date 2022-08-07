@@ -7,3 +7,4 @@ GitHub
 windows
 github
 Adds 
+git
